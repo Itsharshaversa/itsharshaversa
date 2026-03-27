@@ -1,6 +1,5 @@
 # 👋 Hey, I'm Harshit Srivastava
 
-🚀 **3rd Year B.Tech CSE (AI & ML) @ KIET, Ghaziabad**
 
 💡 Future-focused on **System Design | Scalable Systems | AI-powered Applications**
 
