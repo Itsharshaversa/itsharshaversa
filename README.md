@@ -24,6 +24,7 @@
 
 ---
 
+
 # 🚀 Featured Projects
 
 <table width="100%">
@@ -68,16 +69,17 @@
 
 <td width="50%" valign="top">
 
-### 🔵 Alumni Management System  
+### 💰 Finance Dashboard Backend  
 ---
-📌 **Spring Boot + PostgreSQL**  
-⚡ Efficient data handling  
+📌 **Node.js + Express + MongoDB + JWT**  
+⚡ Role-based access + financial analytics  
 
 <br/>
 
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge"/>
 
 </td>
 
