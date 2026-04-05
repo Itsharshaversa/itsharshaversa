@@ -32,35 +32,33 @@
 <td width="50%" valign="top">
 
 ### 🔴 Real-time Collaboration Tool  
-<hr/>
-
+---
 📌 **MERN + Socket.IO**  
 ⚡ Google Docs-like live editing  
 
 <br/>
 
-<img src="https://img.shields.io/badge/MongoDB-green?style=flat-square"/>
-<img src="https://img.shields.io/badge/Express-black?style=flat-square"/>
-<img src="https://img.shields.io/badge/React-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/Node.js-green?style=flat-square"/>
-<img src="https://img.shields.io/badge/Socket.IO-black?style=flat-square"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge"/>
 
 </td>
 
 <td width="50%" valign="top">
 
 ### 🟢 Hospital-Patient Platform  
-<hr/>
-
+---
 📌 **Full-stack system**  
 ⚡ Real-time tracking + role-based access  
 
 <br/>
 
-<img src="https://img.shields.io/badge/React-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/Node.js-green?style=flat-square"/>
-<img src="https://img.shields.io/badge/MongoDB-green?style=flat-square"/>
-<img src="https://img.shields.io/badge/REST-API-orange?style=flat-square"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST-API-FF6F00?style=for-the-badge"/>
 
 </td>
 
@@ -71,39 +69,35 @@
 <td width="50%" valign="top">
 
 ### 🔵 Alumni Management System  
-<hr/>
-
+---
 📌 **Spring Boot + PostgreSQL**  
 ⚡ Efficient data handling  
 
 <br/>
 
-<img src="https://img.shields.io/badge/SpringBoot-green?style=flat-square"/>
-<img src="https://img.shields.io/badge/PostgreSQL-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/Java-orange?style=flat-square"/>
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge"/>
 
 </td>
 
 <td width="50%" valign="top">
 
 ### 🟣 LLM Query System  
-<hr/>
-
+---
 📌 **AI-powered backend**  
 ⚡ Intelligent query processing  
 
 <br/>
 
-<img src="https://img.shields.io/badge/LLM-AI-purple?style=flat-square"/>
-<img src="https://img.shields.io/badge/FastAPI-teal?style=flat-square"/>
-<img src="https://img.shields.io/badge/Python-yellow?style=flat-square"/>
+<img src="https://img.shields.io/badge/LLM-AI-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge"/>
 
 </td>
 
 </tr>
 </table>
-
----
 
 ## 🧩 LeetCode Profile
 
