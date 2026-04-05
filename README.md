@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harshit Srivastava</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=System+Design+Enthusiast;Scalable+Backend+Engineer;AI+%2B+Real-time+Systems+Builder;DSA+%7C+MERN+%7C+LLMs" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=System+Design+Engineer;Scalable+Backend+Developer;AI+%2B+Real-time+Systems;DSA+Enthusiast" />
 </p>
 
 <p align="center">
@@ -12,51 +12,83 @@
 
 ## 🧠 About Me
 
-- 💻 Skilled in **C++, Java, Python, JavaScript, Golang**
-- ⚙️ Deep diving into **System Design & DSA**
+- 💻 Strong in **C++, Java, Python, JavaScript, Golang**
+- ⚙️ Focused on **System Design + DSA**
 - 🤖 Exploring **LLMs, Agentic AI & Real-time Systems**
-- 🧩 Strong problem solver (DSA-focused)
-- 👨‍🏫 Mentored **150+ students**
+- 🧩 Active problem solver on **LeetCode**
+- 👨‍🏫 Mentored **150+ students in UI/UX & Frontend**
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔴 Real-time Collaboration Tool
-> MERN + Socket.IO  
-> Google Docs-like live editing system
+<table>
+<tr>
+<td width="50%">
 
-### 🟢 Hospital-Patient Platform
-> Role-based system + real-time tracking
+### 🔴 Real-time Collaboration Tool  
+📌 MERN + Socket.IO  
+⚡ Google Docs-like live editing  
 
-### 🔵 Alumni Management System
-> Spring Boot + PostgreSQL backend
+</td>
+<td width="50%">
 
-### 🟣 LLM Query System
-> AI-powered intelligent query engine
+### 🟢 Hospital-Patient Platform  
+📌 Full-stack system  
+⚡ Real-time tracking + role-based access  
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🔵 Alumni Management System  
+📌 Spring Boot + PostgreSQL  
+⚡ Efficient data handling  
+
+</td>
+<td width="50%">
+
+### 🟣 LLM Query System  
+📌 AI-powered backend  
+⚡ Intelligent query processing  
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧩 Coding Profiles & Stats
+## 🧩 LeetCode Profile
 
 <p align="center">
-  <a href="https://leetcode.com/">
-    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+  <a href="https://leetcode.com/u/itsharshit04/">
+    <img src="https://img.shields.io/badge/LeetCode-Visit_Profile-orange?style=for-the-badge&logo=leetcode"/>
   </a>
-  <a href="https://codeforces.com/">
-    <img src="https://img.shields.io/badge/Codeforces-blue?style=for-the-badge&logo=codeforces"/>
-  </a>
-  <a href="https://www.geeksforgeeks.org/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-green?style=for-the-badge&logo=geeksforgeeks"/>
-  </a>
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/itsharshit04?theme=dark&font=baloo&ext=contest" />
 </p>
 
 ---
 
-## 📊 LeetCode Stats
+## 🛠️ Tech Stack
 
+### 👨‍💻 Languages
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Itsharshaversa?theme=dark&font=baloo&ext=contest" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,go" />
+</p>
+
+### 🌐 Backend & Web
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,redux,nodejs,express,fastapi,tailwind" />
+</p>
+
+### 🗄️ Databases & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,docker,git,github,postman" />
 </p>
 
 ---
@@ -68,4 +100,4 @@
 ✔ Load Balancing & Caching  
 ✔ Microservices Design  
 ✔ WebSockets & Real-time Systems  
-✔ DB Optimization  
+✔ Database Optimization  
