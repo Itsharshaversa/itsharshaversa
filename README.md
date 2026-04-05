@@ -5,7 +5,11 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Itsharshaversa&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Itsharshaversa&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Visitors-50+-blue?style=for-the-badge" />
 </p>
 
 ---
@@ -22,41 +26,45 @@
 
 ## 🚀 Featured Projects
 
+<p align="center">
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🔴 Real-time Collaboration Tool  
-📌 MERN + Socket.IO  
-⚡ Google Docs-like live editing  
+📌 **MERN + Socket.IO**  
+⚡ Google Docs-like live editing system  
 
 </td>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 ### 🟢 Hospital-Patient Platform  
-📌 Full-stack system  
+📌 **Full-stack system**  
 ⚡ Real-time tracking + role-based access  
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🔵 Alumni Management System  
-📌 Spring Boot + PostgreSQL  
+📌 **Spring Boot + PostgreSQL**  
 ⚡ Efficient data handling  
 
 </td>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 ### 🟣 LLM Query System  
-📌 AI-powered backend  
+📌 **AI-powered backend**  
 ⚡ Intelligent query processing  
 
 </td>
 </tr>
 </table>
+</p>
 
 ---
 
