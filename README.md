@@ -22,43 +22,55 @@
 
 ## 🚀 Featured Projects
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔴 Real-time Collaboration Tool  
-📌 MERN + Socket.IO  
+<h3>🔴 Real-time Collaboration Tool</h3>
+
+<p>
+📌 MERN + Socket.IO <br/>
 ⚡ Google Docs-like live editing  
+</p>
 
 </td>
-<td width="50%">
 
-### 🟢 Hospital-Patient Platform  
-📌 Full-stack system  
+<td width="50%" valign="top">
+
+<h3>🟢 Hospital-Patient Platform</h3>
+
+<p>
+📌 Full-stack system <br/>
 ⚡ Real-time tracking + role-based access  
+</p>
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔵 Alumni Management System  
-📌 Spring Boot + PostgreSQL  
+<h3>🔵 Alumni Management System</h3>
+
+<p>
+📌 Spring Boot + PostgreSQL <br/>
 ⚡ Efficient data handling  
+</p>
 
 </td>
-<td width="50%">
 
-### 🟣 LLM Query System  
-📌 AI-powered backend  
+<td width="50%" valign="top">
+
+<h3>🟣 LLM Query System</h3>
+
+<p>
+📌 AI-powered backend <br/>
 ⚡ Intelligent query processing  
+</p>
 
 </td>
 </tr>
 </table>
-
----
 
 ## 🧩 LeetCode Profile
 
