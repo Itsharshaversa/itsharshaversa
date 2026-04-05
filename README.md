@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harshit Srivastava</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=System+Design+Engineer;Scalable+Backend+Developer;AI+%2B+Real-time+Systems;DSA+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;;System+Design+Entusiast;AI+%2B+Real-time+Systems;Problem+Solving+Specialist" />
 </p>
 
 <p align="center">
