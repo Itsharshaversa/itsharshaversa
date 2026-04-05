@@ -5,8 +5,12 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Itsharshaversa&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Itsharshaversa&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
+
+<!-- <p align="center">
+  <img src="https://img.shields.io/badge/Visitors-50+-blue?style=for-the-badge" />
+</p> -->
 
 ---
 
@@ -16,45 +20,86 @@
 - ⚙️ Focused on **System Design + DSA**
 - 🤖 Exploring **LLMs, Agentic AI & Real-time Systems**
 - 🧩 Active problem solver on **LeetCode**
-- 👨‍🏫 Mentored **150+ students in UI/UX & Frontend**
+- 👨‍🏫 Mentored **150+ students**
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-<table>
+<table width="100%">
 <tr>
-<td width="70%">
+
+<td width="50%" valign="top">
 
 ### 🔴 Real-time Collaboration Tool  
-📌 MERN + Socket.IO  
+<hr/>
+
+📌 **MERN + Socket.IO**  
 ⚡ Google Docs-like live editing  
 
+<br/>
+
+<img src="https://img.shields.io/badge/MongoDB-green?style=flat-square"/>
+<img src="https://img.shields.io/badge/Express-black?style=flat-square"/>
+<img src="https://img.shields.io/badge/React-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Node.js-green?style=flat-square"/>
+<img src="https://img.shields.io/badge/Socket.IO-black?style=flat-square"/>
+
 </td>
-<td width="70%">
+
+<td width="50%" valign="top">
 
 ### 🟢 Hospital-Patient Platform  
-📌 Full-stack system  
+<hr/>
+
+📌 **Full-stack system**  
 ⚡ Real-time tracking + role-based access  
 
+<br/>
+
+<img src="https://img.shields.io/badge/React-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Node.js-green?style=flat-square"/>
+<img src="https://img.shields.io/badge/MongoDB-green?style=flat-square"/>
+<img src="https://img.shields.io/badge/REST-API-orange?style=flat-square"/>
+
 </td>
+
 </tr>
 
 <tr>
-<td width="70%">
+
+<td width="50%" valign="top">
 
 ### 🔵 Alumni Management System  
-📌 Spring Boot + PostgreSQL  
+<hr/>
+
+📌 **Spring Boot + PostgreSQL**  
 ⚡ Efficient data handling  
 
+<br/>
+
+<img src="https://img.shields.io/badge/SpringBoot-green?style=flat-square"/>
+<img src="https://img.shields.io/badge/PostgreSQL-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Java-orange?style=flat-square"/>
+
 </td>
-<td width="70%">
+
+<td width="50%" valign="top">
 
 ### 🟣 LLM Query System  
-📌 AI-powered backend  
+<hr/>
+
+📌 **AI-powered backend**  
 ⚡ Intelligent query processing  
 
+<br/>
+
+<img src="https://img.shields.io/badge/LLM-AI-purple?style=flat-square"/>
+<img src="https://img.shields.io/badge/FastAPI-teal?style=flat-square"/>
+<img src="https://img.shields.io/badge/Python-yellow?style=flat-square"/>
+
 </td>
+
 </tr>
 </table>
 
@@ -83,7 +128,7 @@
 
 ### 🌐 Backend & Web
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,redux,nodejs,express,fastapi,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,tailwind" />
 </p>
 
 ### 🗄️ Databases & Tools
@@ -93,11 +138,21 @@
 
 ---
 
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Itsharshaversa&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itsharshaversa&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
 ## 🏗️ System Design Focus
 
 ```text
-✔ Scalable Architectures  
-✔ Load Balancing & Caching  
-✔ Microservices Design  
-✔ WebSockets & Real-time Systems  
-✔ Database Optimization  
+✔ Scalable Architectures
+✔ Load Balancing & Caching
+✔ Microservices Design
+✔ WebSockets & Real-time Systems
+✔ Database Optimization
