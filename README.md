@@ -49,17 +49,19 @@
 
 <td width="50%" valign="top">
 
-### 🟢 Hospital-Patient Platform  
+### 🟢 Wellness Bridge — Healthcare Emergency Platform
 ---
-📌 **Full-stack system**  
-⚡ Real-time tracking + role-based access  
+📌 **MERN + ML + OpenStreetMap**  
+⚡ Real-time bed & ambulance tracking, emergency routing, ML demand prediction, inventory management  
 
 <br/>
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/REST-API-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge"/>
 
 </td>
 
