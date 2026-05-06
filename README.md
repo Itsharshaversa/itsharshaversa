@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=200&section=header&text=Harshit%20Srivastava&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20System%20Design%20%7C%20AI%20%26%20Real-time%20Systems&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00F7FF,100:0066FF&amp;height=200&amp;section=header&amp;text=Harshit%20Srivastava&amp;fontSize=50&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Full%20Stack%20Developer%20%7C%20System%20Design%20%7C%20AI&amp;descAlignY=58&amp;descSize=18"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;System+Design+Enthusiast;MERN+%2B+ML+%2B+Real-time+Systems;Building+Startup-grade+Products" />
 
@@ -162,6 +162,5 @@ leetcode : https://leetcode.com/u/itsharshit04/
 
 ---
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066FF,100:00F7FF&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0066FF,100:00F7FF&amp;height=100&amp;section=footer"/>
 </div>
