@@ -53,8 +53,7 @@ leetcode : https://leetcode.com/u/itsharshit04/
 
 ---
 📌 **MERN + ML + OpenStreetMap**
-⚡ Real-time hospital bed tracking, emergency routing via Haversine algorithm, ML demand prediction & inventory management
-
+⚡ Real-time hospital bed tracking, emergency routing via Haversine algorithm, ML demand prediction and inventory management
 <br/>
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -154,10 +153,10 @@ leetcode : https://leetcode.com/u/itsharshit04/
 
 ```text
 ✔ Scalable Microservice Architectures
-✔ Load Balancing & Redis Caching
-✔ WebSockets & Real-time Systems
-✔ REST API Design & JWT Auth
-✔ Database Optimization & Indexing
+✔ Load Balancing and Redis Caching
+✔ WebSockets and Real-time Systems
+✔ REST API Design and JWT Auth
+✔ Database Optimization and Indexing
 ✔ ML Integration in Production Systems
 ```
 
